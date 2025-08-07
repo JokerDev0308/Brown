@@ -16,7 +16,7 @@ export const LandingPage = (): JSX.Element => {
           </div>
 
           <div className="relative z-10 p-6 h-full flex flex-col justify-center lg:justify-start lg:ml-[74px]">
-            <img className="w-[100px] h-[48px] sm:w-[134px] sm:h-[65px] mb-6 lg:mb-0" alt="Logo" src="/images/logo.svg" />
+            <img className="w-[100px] h-[48px] sm:w-[134px] sm:h-[65px] mb-[64px] lg:mb-0" alt="Logo" src="/images/logo.svg" />
 
             <div className="lg:mt-[306px] font-['Lato',Helvetica] font-extrabold text-white text-[24px] sm:text-[32px] lg:text-[40px] tracking-[1.20px] sm:tracking-[1.40px] lg:tracking-[1.60px] leading-[28px] sm:leading-[38px] lg:leading-[47px] mb-6 lg:mb-0">
               Project Greenspace, <br />
